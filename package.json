@@ -1,5 +1,5 @@
 {
-  "name": "hackcheck-ts",
+  "name": "hackcheck",
   "version": "1.0.0",
   "description": "The official NodeJS wrapper for hackcheck.io",
   "main": "dist/index.js",

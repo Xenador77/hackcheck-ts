@@ -2,7 +2,7 @@
 
 Official NodeJS library for the [hackcheck.io](https://hackcheck.io) API
 
-- [HackCheck-ts](#hackcheck-go)
+- [HackCheck-ts](#hackcheck-ts)
   - [Installation](#installation)
   - [Quick start](#quick-start)
   - [Getting your api key](#getting-your-api-key)
