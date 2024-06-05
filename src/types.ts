@@ -17,6 +17,8 @@ export type SearchResult = {
 export type SearchResponse = {
   databases: number;
   results: SearchResult[];
+  first_seen: string;
+  last_seen: string;
 };
 
 export type SearchField =
